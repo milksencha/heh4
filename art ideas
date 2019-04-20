@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<head>
+  <link rel="stylesheet" href="heh4.css">
+  <link href="https://fonts.googleapis.com/css?family=Josefin+Sans|Source+Sans+Pro" rel="stylesheet">
+</head>
+
+<h1> art ideas?? w h e e z e s</h1>
+<h2> maybe it will be easier for me to think about what i might want to draw if i put it into a website style, yeah okay</h2>
+
+<body>
+  <h3>Existing Pieces and Ideas</h3>
+    <p>
+      <button onclick="location.href='https://milksencha.github.io/yato/'" class="button">Noragami</button>
+      <button onclick="location.href='https://milksencha.github.io/mobu/'" class="button">Mob Psycho 100</button>
+      <button onclick="location.href='https://milksencha.github.io/kimetsu/'" class="button">Demon Slayer</button>
+      <button onclick="location.href='https://milksencha.github.io/yakusoku/'" class="button">The Promised Neverland</button>
+      <button onclick="location.href='https://milksencha.github.io/bsd/'" class="button">Bungo Stray Dogs</button>
+      <button onclick="location.href='https://milksencha.github.io/personal/'" class="button">Personal Projects</button>
+    </p>
+</body>
+
+<body>
+  <h3>References?</h3>
+    <p> 
+      <a href="http://madebyevan.com/webgl-water/"> Water Rippling</a>
+      <a href="http://as-warm-as-choco.tumblr.com/post/128771179533/a-master-post-of-thomas-romains-art-tutorials"> Making Buildings </a>
+      more coming maybe hhhhh
+    </p>
+</body>
+  
+
+
+</html>
