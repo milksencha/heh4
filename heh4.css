@@ -31,8 +31,14 @@ h3 {
   color:#48494f;
   font-family: 'Josefin Sans', sans-serif;
 }
+
+h4 {
+  color:#48494f;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
  body {
-   background-color: #E3E5F5;
+   background-color: #fcfcfc;
  }
 
  .button {
@@ -98,8 +104,7 @@ div{
 }
 
 
-/*
-/* The container <div> - needed to position the dropdown content */
+/* The container <div> - needed to position the dropdown content
 .dropdown {
     position: relative;
     display: inline-block;
@@ -125,8 +130,7 @@ div{
 #rain,#wind,#river,#ocean,#drops,
 #car,#fan,#clock,#plane,#paper,#train{
   border-radius: 50%;
-}
-*/
+}*/
 
 #yato{
   border-radius: 50%;
