@@ -22,6 +22,15 @@ h1:hover {
   color: #150B32;
 }
 
+h2 {
+  color:#48494f;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+h3 {
+  color:#48494f;
+  font-family: 'Josefin Sans', sans-serif;
+}
  body {
    background-color: #E3E5F5;
  }
