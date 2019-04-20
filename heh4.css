@@ -48,12 +48,9 @@ h4 {
    text-align: center;
  }
 
-#yato {
+#yato,#mob,#kny,#emma,#bsd,#personal {
   border-radius: 50%;
-}
-
-#mob {
-  border-radius: 50%;
+  border: 50px;
 }
 
 #text{
